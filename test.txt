@@ -1,0 +1,5 @@
+'hello'.count('l') #2
+'hello'.count('ll') # 1
+'he
+
+
